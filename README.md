@@ -88,7 +88,7 @@ Then access the API at:
 ```json
 {
   "section": "Abstract",
-  "content": "This study talks about how machine learning is kinda useful for predicting stuff..."
+  "content": "This study talks about how machine learning is kinda useful for predicting stuff...[1]"
 }
 ```
 
