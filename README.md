@@ -25,6 +25,9 @@ cd acadamic-text-converter-llama
 ### 2. Create `.env` File
 
 Create a `.env` file in the root directory with your Hugging Face token:
+```clone
+https://huggingface.co/Shandeep201/llama-2
+```
 
 ```env
 HF_TOKEN=your_huggingface_token_here
